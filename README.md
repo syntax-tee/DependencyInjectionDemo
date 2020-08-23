@@ -1,2 +1,2 @@
 # DependencyInjectionDemo
-This app demonstrate DI using a simple counter app.
+This app demonstrates DI using a simple counter app.
